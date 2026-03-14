@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SberKot\\source\\repos\\0202filess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{762D0470-A6E4-4775-8A53-5BCB9911BC53}|0202filess.csproj|c:\\users\\sberkot\\source\\repos\\0202filess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{762D0470-A6E4-4775-8A53-5BCB9911BC53}|0202filess.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{762D0470-A6E4-4775-8A53-5BCB9911BC53}|0202filess.csproj|c:\\users\\sberkot\\source\\repos\\0202filess\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{762D0470-A6E4-4775-8A53-5BCB9911BC53}|0202filess.csproj|solutionrelative:logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SberKot\\source\\repos\\0202filess\\bin\\Debug\\net8.0\\jcsv.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bin\\Debug\\net8.0\\jcsv.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SberKot\\source\\repos\\0202filess\\bin\\Debug\\net8.0\\test.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bin\\Debug\\net8.0\\test.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SberKot\\source\\repos\\0202filess\\bin\\Debug\\net8.0\\set.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bin\\Debug\\net8.0\\set.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SberKot\\source\\repos\\0202filess\\bin\\Debug\\net8.0\\svaga.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bin\\Debug\\net8.0\\svaga.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB8C73A-0788-4511-A160-3E2259D658F1}|..\\FileManagerTest\\FileManagerTest.csproj|c:\\users\\sberkot\\source\\repos\\filemanagertest\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB8C73A-0788-4511-A160-3E2259D658F1}|..\\FileManagerTest\\FileManagerTest.csproj|c:\\users\\sberkot\\source\\repos\\filemanagertest\\handlerstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4711B180-B35F-43E7-9469-F8A0D9D04DF8}|..\\FileManagerLb\\FileManagerLb.csproj|c:\\users\\sberkot\\source\\repos\\filemanagerlb\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "svaga.yaml",
+              "DocumentMoniker": "C:\\Users\\SberKot\\source\\repos\\0202filess\\bin\\Debug\\net8.0\\svaga.yaml",
+              "RelativeDocumentMoniker": "bin\\Debug\\net8.0\\svaga.yaml",
+              "ToolTip": "C:\\Users\\SberKot\\source\\repos\\0202filess\\bin\\Debug\\net8.0\\svaga.yaml",
+              "RelativeToolTip": "bin\\Debug\\net8.0\\svaga.yaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-03-14T17:59:03.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "set.xml",
+              "DocumentMoniker": "C:\\Users\\SberKot\\source\\repos\\0202filess\\bin\\Debug\\net8.0\\set.xml",
+              "RelativeDocumentMoniker": "bin\\Debug\\net8.0\\set.xml",
+              "ToolTip": "C:\\Users\\SberKot\\source\\repos\\0202filess\\bin\\Debug\\net8.0\\set.xml",
+              "RelativeToolTip": "bin\\Debug\\net8.0\\set.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-03-14T17:58:48.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "test.json",
+              "DocumentMoniker": "C:\\Users\\SberKot\\source\\repos\\0202filess\\bin\\Debug\\net8.0\\test.json",
+              "RelativeDocumentMoniker": "bin\\Debug\\net8.0\\test.json",
+              "ToolTip": "C:\\Users\\SberKot\\source\\repos\\0202filess\\bin\\Debug\\net8.0\\test.json",
+              "RelativeToolTip": "bin\\Debug\\net8.0\\test.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-14T17:58:32.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "jcsv.csv",
+              "DocumentMoniker": "C:\\Users\\SberKot\\source\\repos\\0202filess\\bin\\Debug\\net8.0\\jcsv.csv",
+              "RelativeDocumentMoniker": "bin\\Debug\\net8.0\\jcsv.csv",
+              "ToolTip": "C:\\Users\\SberKot\\source\\repos\\0202filess\\bin\\Debug\\net8.0\\jcsv.csv",
+              "RelativeToolTip": "bin\\Debug\\net8.0\\jcsv.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-03-14T17:58:27.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\SberKot\\source\\repos\\FileManagerTest\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "..\\FileManagerTest\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\SberKot\\source\\repos\\FileManagerTest\\MSTestSettings.cs",
+              "RelativeToolTip": "..\\FileManagerTest\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T16:57:12.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HandlersTests.cs",
+              "DocumentMoniker": "C:\\Users\\SberKot\\source\\repos\\FileManagerTest\\HandlersTests.cs",
+              "RelativeDocumentMoniker": "..\\FileManagerTest\\HandlersTests.cs",
+              "ToolTip": "C:\\Users\\SberKot\\source\\repos\\FileManagerTest\\HandlersTests.cs",
+              "RelativeToolTip": "..\\FileManagerTest\\HandlersTests.cs",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAiwNAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T16:56:52.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\SberKot\\source\\repos\\FileManagerLb\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\FileManagerLb\\Class1.cs",
+              "ToolTip": "C:\\Users\\SberKot\\source\\repos\\FileManagerLb\\Class1.cs",
+              "RelativeToolTip": "..\\FileManagerLb\\Class1.cs",
+              "ViewState": "AgIAALkAAAAAAAAAAAAiwCYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T16:56:29.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\SberKot\\source\\repos\\0202filess\\Logger.cs",
+              "RelativeDocumentMoniker": "Logger.cs",
+              "ToolTip": "C:\\Users\\SberKot\\source\\repos\\0202filess\\Logger.cs",
+              "RelativeToolTip": "Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T15:38:12.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SberKot\\source\\repos\\0202filess\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\SberKot\\source\\repos\\0202filess\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAKABAAAAAAAAAAAYwL0BAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T15:07:18.746Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

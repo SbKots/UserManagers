@@ -1,0 +1,12 @@
+- Id: 1
+  Name: Никитос
+  Age: 25
+  Role: Админ
+  RegisterDate: 2026-03-14T22:27:10.3682550+03:00
+  Activity: Онлайн
+- Id: 2
+  Name: Владос
+  Age: 30
+  Role: Пользователь
+  RegisterDate: 2026-03-14T22:27:10.3682557+03:00
+  Activity: Оффлайн

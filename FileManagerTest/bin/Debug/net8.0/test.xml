@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User>
+    <Id>1</Id>
+    <Name>Никитос</Name>
+    <Age>25</Age>
+    <Role>Админ</Role>
+    <RegisterDate>2026-03-14T22:27:10.3623042+03:00</RegisterDate>
+    <Activity>Онлайн</Activity>
+  </User>
+  <User>
+    <Id>2</Id>
+    <Name>Владос</Name>
+    <Age>30</Age>
+    <Role>Пользователь</Role>
+    <RegisterDate>2026-03-14T22:27:10.362305+03:00</RegisterDate>
+    <Activity>Оффлайн</Activity>
+  </User>
+</ArrayOfUser>
